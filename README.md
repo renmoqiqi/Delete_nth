@@ -32,7 +32,9 @@
 }
 ```
  # 方法二
+ 
 //http://kodango.com/understand-defaultdict-in-python
+
 //Time Complexity O(n), using hash tables.
 ```
 - (NSArray *)delete_nth_naiveByArray:(NSArray *)inArray n:(NSInteger)n
